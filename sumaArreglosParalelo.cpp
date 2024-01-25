@@ -3,6 +3,8 @@
 #include <cstdlib>
 #include <unordered_set>
 
+// Para compilar este archivo hay que instalar GCC y usar el siguiente comando:
+// ./g++ sumaArreglosParalelo.cpp -o sumaArreglosParalelo -fopenmp
 
 // Definimos algunas constantes que usaremos
 // para controlar el tamaño de las algunas tareas
